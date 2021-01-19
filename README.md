@@ -7,4 +7,5 @@ This is the code to the legendary snake game. I have used turtle module to devel
 4. food.py(to automatically generate food)
 
 
-Run this code with proper set up paths and enjoy some nostalgia.
+Run this code with proper set up paths and enjoy some nostalgia. 
+# some modifications can be done to make the game more interesting like changing only two walls as solid and the other two can have extension from one side to the other.
